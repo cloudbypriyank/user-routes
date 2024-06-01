@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE / text editor specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# SQLite database files
+*.sqlite
+
+# Log files
+*.log
+
+# Test coverage
+.coverage
+
+# Cache directories
+.cache/
+.pytest_cache/
+
+# macOS system files
+.DS_Store
+
+# Virtual environment
+venv/
